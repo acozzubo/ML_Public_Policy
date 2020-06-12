@@ -1,4 +1,4 @@
-# CAPP-30254-Cozzubo-Bartra
+# CAPP-30254-Bartra-Cozzubo
 Repository for the final project of CAPP30254 June2020
 
 This is the GitHub repository for project "White Elephants Kill. Can we anticipate them?"

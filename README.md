@@ -14,6 +14,6 @@ Folders:
   - 200611_final_project.ipynb: the Jupyter Notebook with the code and outputs of the preprocessing 
     and Machine Learning algorithms.
   - db_consolidation.py: the code used for the ETL process of the data. 
-  - db_consolidation.py: contains the list of variables used for time operators.
+  - varlists.py: contains the list of variables used for time operators.
 
 3) The results folder contains the project presentation and the final report. 

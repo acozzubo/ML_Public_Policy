@@ -1,8 +1,7 @@
 # White Elephants Kill. Can we anticipate them with Machine Learning?
 
-This is the GitHub repository for project "White Elephants Kill. Can we anticipate them?"
-by Angelo Cozzubo and Andrei Bartra. This project is the submission of the final project
-for the Machine Learning for Public Policy CAPP 30254 at UChicago. 
+## Project for UChicago CAPP30254, Machine Learning for Public Policy (June 2020) with A.Bartra 
+## Keywords: Public Expenditure, Machine Learning, Python
 
 <img src="https://github.com/acozzubo/ML_Public_Policy/blob/master/images/welephants_img2.png" alt="drawing" height="350" width="1200"/>
 
